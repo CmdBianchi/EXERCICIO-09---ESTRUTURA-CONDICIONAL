@@ -1,8 +1,6 @@
 ﻿using System;
 namespace EXERCICIO_09___ESTRUTURA_CONDICIONAL{
-    class Program{
-        private static int rendimento;
-
+    class Program{     
         /// -------> START / MAIN 
         /////////////////////////////////////////////////////////////////////////////////////////////
         static void Main(string[] args){
@@ -12,7 +10,7 @@ namespace EXERCICIO_09___ESTRUTURA_CONDICIONAL{
         /// -------> FUNCTIONS
         /////////////////////////////////////////////////////////////////////////////////////////////
         static void Msg(){
-            Console.WriteLine("Determine qual o quadrante ao qual pertence o ponto.");
+            Console.WriteLine("DETERMINE A QUANTIDADE DE IMPOSTO DEVIDA.");
         }
         //------------------------------------------------------------------------------------------//
         static void Conditional(){
